@@ -1,5 +1,5 @@
-module.exports = {
-  users: [
+{
+  "users": [
     "6282171717079@s.whatsapp.net"
   ]
-};
+}
